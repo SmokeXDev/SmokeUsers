@@ -3,24 +3,40 @@
         "nametag": "SmokeXDeveloper",
         "nametag2": "SmokeXDev",
         "headname": "[SMOKE OWNER]",
-        "emoji": "🚬"
+        "emoji": "🚬",
+        "chattag": {
+            "text": "[SMOKE]",
+            "color": "#FF3232"
+        }
     },
     "SnickTrixTable": {
         "nametag": "SmokeXDeveloper",
         "nametag2": "SmokeXDev",
         "headname": "[SMOKE OWNER]",
-        "emoji": "🚬"
+        "emoji": "🚬",
+        "chattag": {
+            "text": "[SMOKE]",
+            "color": "#FF3232"
+        }
     },
     "Power1ngManipu1ati0n": {
         "nametag": "Lead Developer",
         "nametag2": "Weirddy",
         "headname": "[LEADC OWNER]",
-        "emoji": "☕"
+        "emoji": "☕",
+        "chattag": {
+            "text": "[SMOKE]",
+            "color": "#FF3232"
+        }
     },
     "Despacito_12124": {
         "nametag": "Frostify",
         "nametag2": "Frostify",
         "headname": "[SMOKE PRIVATE] (I'm pregnant)",
-        "emoji": "🚬"
+        "emoji": "🚬",
+        "chattag": {
+            "text": "[SMOKE]",
+            "color": "#FF3232"
+        }
     }
 }
