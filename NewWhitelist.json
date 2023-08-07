@@ -4,7 +4,7 @@
         "nametag2": "SmokeXDev",
         "headname": "[SMOKE OWNER]",
         "emoji": "🚬",
-        "text": "[SMOKE]",
+        "chattag": "[SMOKE]",
         "color": "#FF3232"
     },
     "SnickTrixTable": {
@@ -12,7 +12,7 @@
         "nametag2": "SmokeXDev",
         "headname": "[SMOKE OWNER]",
         "emoji": "🚬",
-        "text": "[SMOKE]",
+        "chattag": "[SMOKE]",
         "color": "#FF3232"
     },
     "Power1ngManipu1ati0n": {
@@ -20,7 +20,7 @@
         "nametag2": "Weirddy",
         "headname": "[LEADC OWNER]",
         "emoji": "☕",
-        "text": "[SMOKE]",
+        "chattag": "[SMOKE]",
         "color": "#FF3232"
     },
     "Despacito_12124": {
@@ -28,7 +28,7 @@
         "nametag2": "Frostify",
         "headname": "[SMOKE PRIVATE] (I'm pregnant)",
         "emoji": "🚬",
-        "text": "[SMOKE]",
+        "chattag": "[SMOKE]",
         "color": "#FF3232"
     }
 }
