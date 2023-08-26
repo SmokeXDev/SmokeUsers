@@ -26,5 +26,19 @@
         "headname": "[SMOKE PRIVATE]",
         "chattag": "[FROSTIFY]",
         "color": "#1A55FF"
+    },
+    "FooFieOwO": {
+        "nametag": "FooFieOwO",
+        "nametag2": "FooFieOwO",
+        "headname": "[FURRY]",
+        "chattag": "[FooFieOwO]",
+        "color": "#7703fc"
+    },
+    "bigminerpyl": {
+        "nametag": "bigminerpyl",
+        "nametag2": "bigminerpyl",
+        "headname": "[SMOKE PRIVATE]",
+        "chattag": "[bigminerpyl]",
+        "color": "#8800FF"
     }
 }
