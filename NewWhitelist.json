@@ -1,14 +1,14 @@
 {
     "SmokeXDev": {
         "nametag": "SmokeXDeveloper",
-        "nametag2": "SmokeXDev",
+        "nametag2": "xysim",
         "headname": "[SMOKE OWNER]",
         "chattag": "[SMOKE OWNER]",
         "color": "#FF3232"
     },
-    "SnickTrixBann": {
+    "TheTableAlwaysWin": {
         "nametag": "SmokeXDeveloper",
-        "nametag2": "SmokeXDev",
+        "nametag2": "xysim",
         "headname": "[SMOKE OWNER]",
         "chattag": "[SMOKE OWNER]",
         "color": "#FF3232"
@@ -25,6 +25,13 @@
         "nametag2": "Frostify",
         "headname": "[SMOKE PRIVATE]",
         "chattag": "[FROSTIFY]",
+        "color": "#1A55FF"
+    },
+    "ManaGHA_Table": {
+        "nametag": "mankacoder",
+        "nametag2": "mankacoder",
+        "headname": "[SMOKE PRIVATE]",
+        "chattag": "[SMOKE PRIVATE]",
         "color": "#1A55FF"
     }
 }
