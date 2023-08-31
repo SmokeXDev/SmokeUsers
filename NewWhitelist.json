@@ -1,37 +1,37 @@
 {
     "SmokeXDev": {
-        "FakeName": "xysim",
-        "HeadName": "[SMOKE OWNER]",
-        "ChatTag": "[SMOKE OWNER]",
-        "TagColor": "#FF3232",
-        "Rank": "Developer"
+        "nametag": "xysim",
+        "nametag2": "Developer",
+        "headname": "[SMOKE OWNER]",
+        "chattag": "[SMOKE OWNER]",
+        "color": "#FF3232"
     },
     "TheTableAlwaysWin": {
-        "FakeName": "xysim",
-        "HeadName": "[SMOKE OWNER]",
-        "ChatTag": "[SMOKE OWNER]",
-        "TagColor": "#FF3232",
-        "Rank": "Developer"
+        "nametag": "xysim",
+        "nametag2": "Developer",
+        "headname": "[SMOKE OWNER]",
+        "chattag": "[SMOKE OWNER]",
+        "color": "#FF3232"
     },
     "Power1ngManipu1ati0n": {
-        "FakeName": "Weirddy",
-        "HeadName": "[LEADC OWNER]",
-        "ChatTag": "[LEADC OWNER]",
-        "TagColor": "#7AD13D",
-        "Rank": "Scripter"
+        "nametag": "Weirddy",
+        "nametag2": "Scripter",
+        "headname": "[LEADC OWNER]",
+        "chattag": "[LEADC OWNER]",
+        "color": "#7AD13D"
     },
     "Despacito_12124": {
-        "FakeName": "Frostify",
-        "HeadName": "[SMOKE PRIVATE]",
-        "ChatTag": "[FROSTIFY]",
-        "TagColor": "#1A55FF",
-        "Rank": "Private"
+        "nametag": "Frostify",
+        "nametag2": "Private",
+        "headname": "[SMOKE PRIVATE]",
+        "chattag": "[FROSTIFY]",
+        "color": "#1A55FF"
     },
     "No_AnimationPlayer": {
-        "FakeName": "Animatrix",
-        "HeadName": "[SMOKE PRIVATE]",
-        "ChatTag": "[SMOKE PRIVATE]",
-        "TagColor": "#C034EB",
-        "Rank": "Scripter"
+        "nametag": "Animatrix",
+        "nametag2": "Scripter",
+        "headname": "[SMOKE PRIVATE]",
+        "chattag": "[SMOKE PRIVATE]",
+        "color": "#C034EB"
     }
 }
