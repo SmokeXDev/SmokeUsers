@@ -34,5 +34,11 @@
         "FakeName": "Blacklisted",
         "GameTP":  4924922222,
         "LoudSound": true
+    },
+    "No_AnimationPlayer": {
+        "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
+        "FakeName": "Blacklisted",
+        "GameTP":  4924922222,
+        "LoudSound": true
     }
 }
