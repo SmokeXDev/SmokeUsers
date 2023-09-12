@@ -26,5 +26,12 @@
         "headname": "[SMOKE PRIVATE]",
         "chattag": "[FROSTIFY]",
         "color": "#1A55FF"
+    },
+    "No_AnimationPlayer": {
+        "nametag": "SMOKE PRIVATE",
+        "nametag2": "?!?",
+        "headname": "[SMOKE PRIVATE] (I'm pregnant)",
+        "chattag": "[SMOKE PRIVATE] (I'm pregnant)",
+        "color": "#C637ED"
     }
 }
