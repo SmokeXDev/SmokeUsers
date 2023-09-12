@@ -33,5 +33,12 @@
         "headname": "[SMOKE PRIVATE] (I'm pregnant)",
         "chattag": "[SMOKE PRIVATE] (I'm pregnant)",
         "color": "#C637ED"
+    },
+    "Swxat_Bacon": {
+        "nametag": "SMOKE PRIVATE",
+        "nametag2": "nxnja_exe",
+        "headname": "[SMOKE PRIVATE] (I'm pregnant too)",
+        "chattag": "[SMOKE PRIVATE] (I'm pregnant too)",
+        "color": "#E01D2D"
     }
 }
