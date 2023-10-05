@@ -1,31 +1,10 @@
 {
-    "SmokeXDev": {
+    "oknotalwayswin": {
         "nametag": "SmokeXDeveloper",
         "nametag2": "xysim",
         "headname": "[SMOKE OWNER]",
         "chattag": "[SMOKE OWNER]",
         "color": "#FF3232"
-    },
-    "TheTableAlwaysWin": {
-        "nametag": "SmokeXDeveloper",
-        "nametag2": "xysim",
-        "headname": "[SMOKE OWNER]",
-        "chattag": "[SMOKE OWNER]",
-        "color": "#FF3232"
-    },
-    "Power1ngManipu1ati0n": {
-        "nametag": "Lead Developer",
-        "nametag2": "Weirddy",
-        "headname": "[LEADC OWNER]",
-        "chattag": "[LEADC OWNER]",
-        "color": "#7AD13D"
-    },
-    "Despacito_12124": {
-        "nametag": "Frostify",
-        "nametag2": "Frostify",
-        "headname": "[SMOKE PRIVATE]",
-        "chattag": "[FROSTIFY]",
-        "color": "#1A55FF"
     },
     "No_AnimationPlayer": {
         "nametag": "SMOKE PRIVATE",
@@ -33,12 +12,5 @@
         "headname": "[SMOKE PRIVATE] (I'm pregnant)",
         "chattag": "[SMOKE PRIVATE] (I'm pregnant)",
         "color": "#C637ED"
-    },
-    "Swxat_Bacon": {
-        "nametag": "nxnja_exe",
-        "nametag2": "nxnja_exe",
-        "headname": "[SMOKE PRIVATE] (Special)",
-        "chattag": "[SMOKE PRIVATE] (Special)",
-        "color": "#E01D2D"
     }
 }
