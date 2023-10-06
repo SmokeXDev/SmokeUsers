@@ -9,8 +9,15 @@
     "No_AnimationPlayer": {
         "nametag": "SMOKE PRIVATE",
         "nametag2": "?!?",
-        "headname": "[SMOKE PRIVATE] (I'm pregnant)",
+        "headname": "[SMOKE PRIVATE]",
         "chattag": "[SMOKE PRIVATE] (I'm pregnant)",
         "color": "#C637ED"
+    },
+    "fskjdfmsdkf": {
+        "nametag": "1_amdghot",
+        "nametag2": "1_amdghot",
+        "headname": "[SMOKE PRIVATE]",
+        "chattag": "[SMOKE PRIVATE]",
+        "color": "#11ED14"
     }
 }
