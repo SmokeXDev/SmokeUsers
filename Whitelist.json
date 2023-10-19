@@ -10,7 +10,7 @@
         "nametag": "SMOKE PRIVATE",
         "nametag2": "?!?",
         "headname": "[SMOKE PRIVATE]",
-        "chattag": "[SMOKE PRIVATE] (I'm pregnant)",
+        "chattag": "[SMOKE PRIVATE]",
         "color": "#C637ED"
     },
     "fskjdfmsdkf": {
@@ -19,5 +19,12 @@
         "headname": "[SMOKE PRIVATE]",
         "chattag": "[SMOKE PRIVATE]",
         "color": "#11ED14"
+    },
+    "VxpeGoesHard": {
+        "nametag": "c.loudz._.",
+        "nametag2": "c.loudz._.",
+        "headname": "[SMOKE SPECIAL]",
+        "chattag": "[SMOKE SPECIAL] (I'm pregnant)",
+        "color": "#0324FC"
     }
 }
