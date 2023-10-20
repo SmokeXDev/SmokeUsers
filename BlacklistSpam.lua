@@ -1,3 +1,7 @@
+--Reworking on this
+
+--[[
+
 local http_request = syn and syn.request or request;
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
@@ -62,3 +66,5 @@ for playerName, kickInfo in pairs(blacklisted) do
         end        
     end
 end
+
+]]--
