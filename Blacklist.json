@@ -34,5 +34,11 @@
         "FakeName": "Blacklisted",
         "GameTP":  4924922222,
         "LoudSound": true
+    },
+    "Zeysemk": {
+        "Reason": "You have been permanently banned from Roblox.",
+        "FakeName": "rip",
+        "GameTP":  4924922222,
+        "LoudSound": true
     }
 }
