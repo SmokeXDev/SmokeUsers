@@ -23,8 +23,15 @@
     "VxpeGoesHard": {
         "nametag": "c.loudz._.",
         "nametag2": "c.loudz._.",
-        "headname": "[SMOKE SPECIAL]",
-        "chattag": "[SMOKE SPECIAL] (I'm pregnant)",
+        "headname": "[TESTER]",
+        "chattag": "[TESTER]",
+        "color": "#0324FC"
+    },
+    "sddgdrdhtd": {
+        "nametag": "c.loudz._.",
+        "nametag2": "c.loudz._.",
+        "headname": "[TESTER]",
+        "chattag": "[TESTER]",
         "color": "#0324FC"
     }
 }
