@@ -3,42 +3,56 @@
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
         "FakeName": "Blacklisted",
         "GameTP":  4924922222,
-        "LoudSound": true
+        "LoudSound": true,
+        "BadWords": true
     },
     "MadzMyDestiny": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
         "FakeName": "Blacklisted",
         "GameTP":  4924922222,
-        "LoudSound": true
+        "LoudSound": true,
+        "BadWords": true
     },
     "CRISTIAN2317gx": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
         "FakeName": "Blacklisted",
         "GameTP":  4924922222,
-        "LoudSound": true
+        "LoudSound": true,
+        "BadWords": true
     },
     "UpRiseTeam": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
         "FakeName": "Blacklisted",
         "GameTP":  4924922222,
-        "LoudSound": true
+        "LoudSound": true,
+        "BadWords": true
     },
     "voidslayerofficial": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
         "FakeName": "Blacklisted",
         "GameTP":  4924922222,
-        "LoudSound": true
+        "LoudSound": true,
+        "BadWords": true
     },
     "easyontop85": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
         "FakeName": "Blacklisted",
         "GameTP":  4924922222,
-        "LoudSound": true
+        "LoudSound": true,
+        "BadWords": true
     },
     "Zeysemk": {
         "Reason": "You have been permanently banned from Roblox.",
         "FakeName": "rip",
         "GameTP":  4924922222,
-        "LoudSound": true
+        "LoudSound": true,
+        "BadWords": false
+    },
+    "sddgdrdhtd": {
+        "Reason": "You are too cool man",
+        "FakeName": "testing",
+        "GameTP":  4924922222,
+        "LoudSound": true,
+        "BadWords": true
     }
 }
