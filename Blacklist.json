@@ -1,44 +1,38 @@
 {
     "TechBedV10": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 5,
+        "KickDelay": 3,
         "SpamCount": 5,
         "GameTP":  4924922222,
         "BadWords": true
     },
     "MadzMyDestiny": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 5,
+        "KickDelay": 3,
         "GameTP":  4924922222
     },
     "CRISTIAN2317gx": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 5,
+        "KickDelay": 3,
         "SpamCount": 5,
         "GameTP":  4924922222
     },
     "UpRiseTeam": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 5,
+        "KickDelay": 3,
         "SpamCount": 5,
         "GameTP":  4924922222
     },
     "voidslayerofficial": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 5,
+        "KickDelay": 3,
         "SpamCount": 5,
         "GameTP":  4924922222
     },
     "easyontop85": {
         "Reason": "You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 5,
+        "KickDelay": 3,
         "SpamCount": 5,
         "GameTP":  4924922222
-    },
-    "NotMyFaultYouAreBad": {
-        "Reason":"You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 5,
-        "SpamCount": 5,
-        "BadWords": true
     }
 }
