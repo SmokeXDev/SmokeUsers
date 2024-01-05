@@ -1,7 +1,7 @@
 local http_request = syn and syn.request or request;
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local BlacklistUsers = http_request({Url = "https://raw.githubusercontent.com/SmokeXDev/SmokeUsers/main/Blacklist.json", Method = 'GET'}).Body;
+local BlacklistUsers = http_request({Url = "https://raw.githubusercontent.com/xysimdev/SmokeUsers/main/Blacklist.json", Method = 'GET'}).Body;
 local blacklisted = game:GetService("HttpService"):JSONDecode(BlacklistUsers)
 local BadWords = {
     "gay",
