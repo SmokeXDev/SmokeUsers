@@ -1,5 +1,5 @@
 {
-    "NotMyFaultYouAreBad": {
+    "TheTableAlwaysWin": {
         "nametag": "xysim",
         "nametag2": "xysim",
         "headname": "[SMOKE OWNER]",
@@ -12,33 +12,5 @@
         "headname": "[SMOKE PRIVATE]",
         "chattag": "[SMOKE PRIVATE]",
         "color": "#C637ED"
-    },
-    "fskjdfmsdkf": {
-        "nametag": "1_amdghot",
-        "nametag2": "1_amdghot",
-        "headname": "[SMOKE PRIVATE]",
-        "chattag": "[SMOKE PRIVATE]",
-        "color": "#11ED14"
-    },
-    "VxpeGoesHard": {
-        "nametag": "c.loudz._.",
-        "nametag2": "c.loudz._.",
-        "headname": "[TESTER]",
-        "chattag": "[TESTER]",
-        "color": "#0324FC"
-    },
-    "sddgdrdhtd": {
-        "nametag": "c.loudz._.",
-        "nametag2": "c.loudz._.",
-        "headname": "[TESTER]",
-        "chattag": "[TESTER]",
-        "color": "#0324FC"
-    },
-    "Zeysemk": {
-        "nametag": "dobolomoklo",
-        "nametag2": "dobolomoklo",
-        "headname": "[FRIEND] (irl)",
-        "chattag": "[FRIEND] (irl)",
-        "color": "#0324FC"
     }
 }

@@ -1,7 +1,3 @@
---Reworking on this
-
---[[
-
 local http_request = syn and syn.request or request;
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
@@ -51,20 +47,22 @@ local BadWords = {
 for playerName, kickInfo in pairs(blacklisted) do
     local blacklistedplr = Players:FindFirstChild(playerName)
     if blacklistedplr == Players.LocalPlayer then
-        if game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.TextChatService then
-            while true and task.wait() do
-                for _, BadWord in ipairs(BadWords) do
-                    game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel:SendAsync(BadWord)
+        if kickInfo.BadWords == true then
+            if game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.TextChatService then
+                while true do
+                    task.wait()
+                    for _, BadWord in ipairs(BadWords) do
+                        game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel:SendAsync(BadWord)
+                    end
+                end
+            elseif game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.LegacyChatService then
+                while true do
+                    task.wait()
+                    for _, BadWord in ipairs(BadWords) do
+                        ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(BadWord, "All")
+                    end
                 end
             end
-        elseif game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.LegacyChatService then
-            while true and task.wait() do
-                for _, BadWord in ipairs(BadWords) do
-                    ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(BadWord, "All")
-                end
-            end
-        end        
+        end
     end
 end
-
-]]--
