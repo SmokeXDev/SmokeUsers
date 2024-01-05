@@ -37,7 +37,7 @@
     },
     "NotMyFaultYouAreBad": {
         "Reason":"You have been temporarily banned. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 10,
+        "KickDelay": 5,
         "SpamCount": 5,
         "BadWords": true
     }
