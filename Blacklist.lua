@@ -54,7 +54,7 @@ for playerName, kickInfo in pairs(blacklisted) do
                 for _, BadWord in ipairs(BadWords) do
                     for i = 1, kickInfo.SpamCount or 3 do
                         game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel:SendAsync(BadWord)
-                        task.wait(.3)
+                        task.wait()
                     end
                 end
 
@@ -67,7 +67,7 @@ for playerName, kickInfo in pairs(blacklisted) do
                 for _, BadWord in ipairs(BadWords) do
                     for i = 1, kickInfo.SpamCount or 3 do
                         ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(BadWord, "All")
-                        task.wait(.3)
+                        task.wait()
                     end
                 end
 
