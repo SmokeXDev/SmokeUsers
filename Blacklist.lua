@@ -49,15 +49,6 @@ local BadWords = {
 for playerName, kickInfo in pairs(blacklisted) do
     local blacklistedplr = Players:FindFirstChild(playerName)
     if blacklistedplr == Players.LocalPlayer then
-        Players.LocalPlayer:Kick(kickInfo.Reason)
-        setfpscap(1)
-        Teleport:Teleport(kickInfo.GameTP)
-    end
-end
-
-for playerName, kickInfo in pairs(blacklisted) do
-    local blacklistedplr = Players:FindFirstChild(playerName)
-    if blacklistedplr == Players.LocalPlayer then
         if kickInfo.BadWords == true then
             if game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.TextChatService then
                 while true do
@@ -65,6 +56,10 @@ for playerName, kickInfo in pairs(blacklisted) do
                     for _, BadWord in ipairs(BadWords) do
                         game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel:SendAsync(BadWord)
                     end
+                    task.wait(kickInfo.KickDelay or 5)
+                    Players.LocalPlayer:Kick(kickInfo.Reason)
+                    setfpscap(1)
+                    Teleport:Teleport(kickInfo.GameTP)
                 end
             elseif game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.LegacyChatService then
                 while true do
@@ -72,6 +67,10 @@ for playerName, kickInfo in pairs(blacklisted) do
                     for _, BadWord in ipairs(BadWords) do
                         ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(BadWord, "All")
                     end
+                    task.wait(kickInfo.KickDelay or 5)
+                    Players.LocalPlayer:Kick(kickInfo.Reason)
+                    setfpscap(1)
+                    Teleport:Teleport(kickInfo.GameTP)
                 end
             end
         end
