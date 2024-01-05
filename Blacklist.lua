@@ -54,9 +54,14 @@ for playerName, kickInfo in pairs(blacklisted) do
                 while true do
                     task.wait()
                     for _, BadWord in ipairs(BadWords) do
-                        game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel:SendAsync(BadWord)
+                        for i = 1, kickInfo.SpamCount or 3 do
+                            game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel:SendAsync(BadWord)
+                            task.wait(kickInfo.KickDelay or 1)
+                        end
                     end
+
                     task.wait(kickInfo.KickDelay or 5)
+
                     Players.LocalPlayer:Kick(kickInfo.Reason)
                     setfpscap(1)
                     Teleport:Teleport(kickInfo.GameTP)
@@ -65,9 +70,14 @@ for playerName, kickInfo in pairs(blacklisted) do
                 while true do
                     task.wait()
                     for _, BadWord in ipairs(BadWords) do
-                        ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(BadWord, "All")
+                        for i = 1, kickInfo.SpamCount or 3 do
+                            ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(BadWord, "All")
+                            task.wait(kickInfo.KickDelay or 1)
+                        end
                     end
+
                     task.wait(kickInfo.KickDelay or 5)
+
                     Players.LocalPlayer:Kick(kickInfo.Reason)
                     setfpscap(1)
                     Teleport:Teleport(kickInfo.GameTP)
