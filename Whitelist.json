@@ -12,5 +12,12 @@
         "headname": "[SMOKE PRIVATE]",
         "chattag": "[SMOKE PRIVATE]",
         "color": "#C637ED"
+    },
+    "DankMemerX_D": {
+        "nametag": "VIEW",
+        "nametag2": "view",
+        "headname": "[VIEW]",
+        "chattag": "[VIEW]",
+        "color": "#FF1100"
     }
 }
