@@ -39,12 +39,5 @@
         "SpamCount": 5,
         "GameTP":  4924922222,
         "BadWords": true
-    },
-    "MiSegoTuttiIGiorni": {
-        "Reason": "You have been temporarily banned from brookhaven. [Remaining ban duration: 4960 weeks 2 days 5 hours 19 minutes 50 seconds.]",
-        "KickDelay": 3,
-        "SpamCount": 5,
-        "GameTP":  476163069,
-        "BadWords": false
     }
 }
