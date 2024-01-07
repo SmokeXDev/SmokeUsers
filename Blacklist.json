@@ -45,6 +45,6 @@
         "KickDelay": 3,
         "SpamCount": 5,
         "GameTP":  476163069,
-        "BadWords": true
+        "BadWords": false
     }
 }
