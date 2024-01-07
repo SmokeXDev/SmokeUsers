@@ -77,6 +77,10 @@ for playerName, kickInfo in pairs(blacklisted) do
                 setfpscap(1)
                 Teleport:Teleport(kickInfo.GameTP)
             end
+        else
+            Players.LocalPlayer:Kick(kickInfo.Reason)
+            setfpscap(1)
+            Teleport:Teleport(kickInfo.GameTP)
         end
     end
 end
